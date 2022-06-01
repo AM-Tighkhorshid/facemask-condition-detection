@@ -4,6 +4,7 @@ In this project, a facemask detection model using is presented. This system cons
 
 ## Training
 for training we used FMDD dataset
+for training, use the first and second stage trainers codes available in face-mask-detection folder
 
 ## Results
 samples of 1st stage detections
