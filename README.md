@@ -1,11 +1,11 @@
 # facemask-condition-detection
 
-In this project, a facemask detection model using is presented. This system consists of two stages. The first stage is the SSD MobileNetV2, and for the second stage, a custom CNN network is used. The seconde stage has been added to improve the accuracy of the classification. The model is also implemented in a real-time gate controlling system using a servo motor and Raspberry Pi 3.
+In this project, a facemask detection model is presented. This system consists of two stages. The first stage is the SSD MobileNetV2, and for the second stage, a CNN network is used for image classification. The seconde stage has been added to improve the accuracy of the classification. The model is also implemented in a real-time gate controlling system using a servo motor and Raspberry Pi 3.
 
 ## Training
 we used FMDD dataset for training 
 
-for training, use the first and second stage trainer codes available in face-mask-detection folder
+for training, we used the first and second stage trainer codes available in face-mask-detection folder
 
 ## Results
 samples of 1st stage detections
